@@ -1,0 +1,24 @@
+﻿@{ 
+    string[] fruits = ViewBag.fruits;
+    List<string> cakes = ViewBag.cakes;
+
+}
+<h2>List of fruits</h2>
+<ol>
+    @foreach (string item in fruits)
+    {
+  <li>@item</li>
+    }
+ 
+</ol>
+<h2>list of cakes</h2>
+<ul>
+    @for (int i = 0; i < cakes.Count; i++)
+    {
+        <li>@cakes[i]</li>
+    }
+
+</ul>
+<br />
+goto:
+<a asp-controller="passingdatademocontroller" asp-action="index">Index</a>

@@ -1,0 +1,13 @@
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\bin\Debug\netcoreapp3.1\RepositoryExample.exe
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\bin\Debug\netcoreapp3.1\RepositoryExample.deps.json
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\bin\Debug\netcoreapp3.1\RepositoryExample.runtimeconfig.json
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\bin\Debug\netcoreapp3.1\RepositoryExample.runtimeconfig.dev.json
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\bin\Debug\netcoreapp3.1\RepositoryExample.dll
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\bin\Debug\netcoreapp3.1\RepositoryExample.pdb
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\obj\Debug\netcoreapp3.1\RepositoryExample.csproj.AssemblyReference.cache
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\obj\Debug\netcoreapp3.1\RepositoryExample.AssemblyInfoInputs.cache
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\obj\Debug\netcoreapp3.1\RepositoryExample.AssemblyInfo.cs
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\obj\Debug\netcoreapp3.1\RepositoryExample.csproj.CoreCompileInputs.cache
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\obj\Debug\netcoreapp3.1\RepositoryExample.dll
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\obj\Debug\netcoreapp3.1\RepositoryExample.pdb
+C:\Users\11035904\source\repos\RepositoryExample\RepositoryExample\obj\Debug\netcoreapp3.1\RepositoryExample.genruntimeconfig.cache

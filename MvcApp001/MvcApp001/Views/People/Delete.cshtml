@@ -1,0 +1,26 @@
+﻿@{
+    PersonModel p = ViewBag.p;
+
+}
+
+@using (Html.BeginForm())
+{
+    @Html.Label("id", "Person Id: ");
+    @Html.TextBox("id", p.Id, new { type = "number" });
+    <br />
+    @Html.Label("pname", "Person Name: ");
+    @Html.TextBox("pname", p.PName);
+    <br />
+    @Html.Label("gender", "Person Gender: ");
+    @Html.TextBox("gender", p.Gender);
+    <br />
+    @Html.Label("age", " Person age: ");
+    @Html.TextBox("age", p.Age, new { type = "number" });
+    <br />
+    <button>Delete Person</button>
+    <hr />
+    <a asp-controller="People" asp-action="index"> Back to Index</a>
+
+}
+
+

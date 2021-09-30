@@ -1,0 +1,16 @@
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\bin\Debug\netcoreapp3.1\AutomationDemoApp01.exe
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\bin\Debug\netcoreapp3.1\AutomationDemoApp01.deps.json
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\bin\Debug\netcoreapp3.1\AutomationDemoApp01.runtimeconfig.json
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\bin\Debug\netcoreapp3.1\AutomationDemoApp01.runtimeconfig.dev.json
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\bin\Debug\netcoreapp3.1\AutomationDemoApp01.dll
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\bin\Debug\netcoreapp3.1\AutomationDemoApp01.pdb
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\obj\Debug\netcoreapp3.1\AutomationDemoApp01.csproj.AssemblyReference.cache
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\obj\Debug\netcoreapp3.1\AutomationDemoApp01.AssemblyInfoInputs.cache
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\obj\Debug\netcoreapp3.1\AutomationDemoApp01.AssemblyInfo.cs
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\obj\Debug\netcoreapp3.1\AutomationDemoApp01.csproj.CoreCompileInputs.cache
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\obj\Debug\netcoreapp3.1\AutomationDemoApp01.csproj.CopyComplete
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\obj\Debug\netcoreapp3.1\AutomationDemoApp01.dll
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\obj\Debug\netcoreapp3.1\AutomationDemoApp01.pdb
+C:\Users\11035904\source\repos\AutomationDemoApp01\AutomationDemoApp01\obj\Debug\netcoreapp3.1\AutomationDemoApp01.genruntimeconfig.cache

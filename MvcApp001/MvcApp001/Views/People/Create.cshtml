@@ -1,0 +1,19 @@
+﻿@using (Html.BeginForm())
+{
+    @Html.Label("id", "Enter Id: ");
+    @Html.TextBox("id", "", new { type = "number" });
+    <br />
+    @Html.Label("pname", "Enter Person Name: ");
+    @Html.TextBox("pname");
+    <br />
+    @Html.Label("gender", "Enter Person Gender: ");
+    @Html.TextBox("gender");
+    <br />
+    @Html.Label("age", "Enter age: ");
+    @Html.TextBox("age", "", new { type = "number" });
+    <br />
+    <button>Add Person</button>
+    <hr />
+    <a asp-controller="People" asp-action="index"> Back to Index</a>
+
+}

@@ -1,0 +1,17 @@
+﻿@using (Html.BeginForm())
+{
+    @Html.Label("t1", "Enter Name: ");
+    @Html.TextBox("t1")
+    <br />
+    <button>Say hello</button>
+            }
+@ViewBag.msg
+<br />
+Time:@DateTime.Now.ToLongTimeString()
+
+Html Helpers
+<br />
+These pre-defined classes and method provided by .net
+<br />
+These are used to generate html tag programatically with state
+<br />

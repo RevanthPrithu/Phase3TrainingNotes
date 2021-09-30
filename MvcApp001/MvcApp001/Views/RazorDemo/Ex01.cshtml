@@ -1,0 +1,15 @@
+﻿<h1>hiii from ex01</h1>
+@for (int i = 0; i < 10; i++)
+{
+    <input type="button" value=@i />
+}
+<hr />
+@{
+    string[] operations = { "Create", "Read", "Update", "Delete" };
+}
+@foreach (string op in operations)
+{
+    <input type="button" value=@op />
+}
+Goto:
+<a asp-controller="razordemo" asp-action="index">Back to Index</a>

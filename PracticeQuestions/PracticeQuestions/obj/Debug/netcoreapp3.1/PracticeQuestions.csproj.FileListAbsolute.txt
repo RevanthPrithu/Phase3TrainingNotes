@@ -1,0 +1,13 @@
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\bin\Debug\netcoreapp3.1\PracticeQuestions.exe
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\bin\Debug\netcoreapp3.1\PracticeQuestions.deps.json
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\bin\Debug\netcoreapp3.1\PracticeQuestions.runtimeconfig.json
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\bin\Debug\netcoreapp3.1\PracticeQuestions.runtimeconfig.dev.json
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\bin\Debug\netcoreapp3.1\PracticeQuestions.dll
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\bin\Debug\netcoreapp3.1\PracticeQuestions.pdb
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.csproj.AssemblyReference.cache
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.AssemblyInfoInputs.cache
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.AssemblyInfo.cs
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.dll
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.pdb
+C:\Users\11035904\source\repos\PracticeQuestions\PracticeQuestions\obj\Debug\netcoreapp3.1\PracticeQuestions.genruntimeconfig.cache

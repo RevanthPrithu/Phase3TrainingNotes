@@ -1,0 +1,17 @@
+﻿<h1>Hi this is Razor Demo</h1>
+Date:@DateTime.Now.ToLongDateString(); <br />
+Time:@DateTime.Now.ToLongTimeString();<br />
+
+MultiLine razor example: <br />
+@{ 
+    string fullName = "revanth M";
+    string firstname = fullName.Substring(0, fullName.IndexOf(" "));
+    string lastname = fullName.Substring(fullName.LastIndexOf(" ") + 1);
+
+}
+Fullname:@fullName <br />
+firstname:@firstname <br />
+lastname: @lastname <br />
+<a asp-controller="razordemo" asp-action="ex01">Example-1</a>
+<a  asp-controller="razordemo" asp-action="ex02">Example-2</a>
+<a asp-controller="razordemo" asp-action="ex03">Example-3</a>

@@ -1,0 +1,13 @@
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\obj\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.csproj.AssemblyReference.cache
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\obj\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.AssemblyInfoInputs.cache
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\obj\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.AssemblyInfo.cs
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\obj\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.csproj.CoreCompileInputs.cache
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\bin\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.exe
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\bin\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.deps.json
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\bin\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.runtimeconfig.json
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\bin\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.runtimeconfig.dev.json
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\bin\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.dll
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\bin\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.pdb
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\obj\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.dll
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\obj\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.pdb
+C:\Users\11035904\source\repos\TrainingPhase1_ProjectSolution\TrainingPhase1_ProjectSolution\obj\Debug\netcoreapp3.1\TrainingPhase1_ProjectSolution.genruntimeconfig.cache

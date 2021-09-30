@@ -1,0 +1,11 @@
+﻿<h1>Post back</h1>
+Postback refers to submit client request to server <br />
+Using postback we can pass data from presentation logic to application logic
+                                                   <br />
+    <form action="/postback/index" method="post">
+        <input type="submit"  />
+    </form>
+    <br />
+Time: @DateTime.Now.ToLongTimeString() 
+<br />
+@ViewBag.msg
